@@ -1,6 +1,8 @@
 body{
     font-family: 'Poppins', sans-serif;
     background-image: radial-gradient(#232730 , #1D212A);
+    margin: 0%;
+    padding: 0%;
 }
 h1{
     font-size: 50px;
@@ -11,6 +13,7 @@ h1{
 }
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 h3, p{
     color: white;
