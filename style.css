@@ -11,7 +11,7 @@ h1{
 .the-highlighter{
    color: orange;
 }
-section{
+.basis-experience{
     display: flex;
     margin-bottom: 150px;
 }
@@ -31,4 +31,25 @@ h3, p{
     color: #35476d;
     background-color: slategray;
     border-radius: 10px;
+}
+.doom{
+    width: 50%;
+    padding-left: 5%;
+    box-shadow: 10px 10px 50px slategrey;
+    border-radius: 10px;
+    margin: 20px;
+
+}
+#boom{
+    margin-left: 5px;
+}
+#n-tech{
+    border-left: 7px solid;
+    border-image: linear-gradient(#747984 #ccd3e2);
+    border-image-slice: 1;   
+}
+#v-tech{
+    border-left: 7px solid;
+    border-image: linear-gradient(#33405a #ccd3e2);
+    border-image-slice: 1;
 }
