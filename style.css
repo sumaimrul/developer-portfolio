@@ -53,3 +53,6 @@ h3, p{
     border-image: linear-gradient(#33405a #ccd3e2);
     border-image-slice: 1;
 }
+footer p{
+    text-align: center;
+}
