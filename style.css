@@ -1,0 +1,31 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-image: radial-gradient(#232730 , #1D212A);
+}
+h1{
+    font-size: 50px;
+    color: white;
+}
+.the-highlighter{
+   color: orange;
+}
+section{
+    display: flex;
+}
+h3, p{
+    color: white;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+      padding-right: 2%;
+}
+.link-button{
+    text-decoration: none;
+    padding: 10px 40px;
+    color: #35476d;
+    background-color: slategray;
+    border-radius: 10px;
+}
